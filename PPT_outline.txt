@@ -1,0 +1,27 @@
+PRESENTATION OUTLINE (Slide-by-Slide)
+------------------------------------
+Slide 1 - Title
+ - HackWithHyderabad: Space Station Challenge
+ - Team Name, Member Names, Contact Email
+
+Slide 2 - Problem Statement & Objective
+ - Short description of the task and goal
+
+Slide 3 - Dataset & Preprocessing
+ - Dataset source (Duality Falcon), sizes, sample images, augmentations
+
+Slide 4 - Model & Training Setup
+ - Architecture, hyperparameters, training details
+
+Slide 5 - Results & Metrics
+ - Best mAP50, precision/recall, key graphs, few qualitative images
+
+Slide 6 - Bonus / Use Case (Optional)
+ - One paragraph describing real-world application
+
+Slide 7 - Conclusion & Next Steps
+ - Summary, improvements, thank you
+
+Notes:
+ - Keep slides visual; use screenshots and small bullets.
+ - Keep total slides 5-7 for judges to quickly review.
